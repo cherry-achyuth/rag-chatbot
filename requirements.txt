@@ -7,3 +7,5 @@ pypdf
 fastapi
 uvicorn
 python-multipart
+groq
+langchain-chroma
